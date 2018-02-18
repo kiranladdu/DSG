@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DSG</string>
+    <string name="loading_projects">Loading projects ...</string>
+</resources>

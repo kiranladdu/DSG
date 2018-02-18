@@ -1,0 +1,47 @@
+<resources>
+
+    <!-- Spacing - Positive -->
+    <dimen name="size_tiny">4dp</dimen>
+    <dimen name="size_small">8dp</dimen>
+    <dimen name="size_medium">16dp</dimen>
+    <dimen name="size_large">32dp</dimen>
+    <dimen name="size_huge">64dp</dimen>
+
+    <!-- Spacing - Negative -->
+    <dimen name="size_tiny_negative">-4dp</dimen>
+    <dimen name="size_small_negative">-8dp</dimen>
+    <dimen name="size_medium_negative">-16dp</dimen>
+    <dimen name="size_large_negative">-32dp</dimen>
+    <dimen name="size_huge_negative">-64dp</dimen>
+
+    <!-- Text Sizes -->
+    <dimen name="text_12">12sp</dimen>
+    <dimen name="text_14">14sp</dimen>
+    <dimen name="text_16">16sp</dimen>
+    <dimen name="text_18">18sp</dimen>
+    <dimen name="text_20">20sp</dimen>
+    <dimen name="text_24">24sp</dimen>
+    <dimen name="text_30">30sp</dimen>
+    <dimen name="text_50">50sp</dimen>
+
+    <!-- Setup animation -->
+    <dimen name="setup_dot_animation_spacing">20dp</dimen>
+    <dimen name="setup_dot_animation_circle_radius">10dp</dimen>
+
+    <!-- Miscellaneous Views -->
+    <dimen name="view_button_border_width">1dp</dimen>
+    <dimen name="view_button_border_width_thick">2dp</dimen>
+    <dimen name="view_button_corner_radius">2dp</dimen>
+    <dimen name="view_checkbox_diameter">25dp</dimen>
+    <dimen name="view_divider_height">1dp</dimen>
+    <dimen name="view_drawer_width">320dp</dimen>
+    <dimen name="view_house_width">240dp</dimen>
+    <dimen name="view_house_cloud_translation_y">14dp</dimen>
+    <dimen name="view_indicator_diameter">8dp</dimen>
+    <dimen name="view_security_circle_size">250dp</dimen>
+    <dimen name="view_security_circle_stroke">15dp</dimen>
+    <dimen name="view_seekbar_height">4dp</dimen>
+    <dimen name="view_seekbar_thumb_size">30dp</dimen>
+    <dimen name="view_toolbar_elevation">6dp</dimen>
+
+</resources>
